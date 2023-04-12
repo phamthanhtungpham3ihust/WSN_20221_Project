@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=PC14 Pin=Y1-2
+Change Component Footprint: Designator=Y1 Old Footprint=CRYSTAL SMD 32,768 kHz New Footprint=Epson_MC-306_32.7680K-A0-ROHS_0
+Change Component Comment : Designator=Y1 Old Comment=32.768kHz New Comment=Crys_Epson_MC-306_32.7680K-A0-ROHS_eec
+Change component parameters: Designator = "Y1"; Footprint = "Epson_MC-306_32.7680K-A0-ROHS_0"; UniqueID = "\OLWWANTY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/56373362b6f292da/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MC-306%20,405,%20406.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "CRYSTAL 32.7680KHZ 12.5PF SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "SER2407CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/56373362b6f292da/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Epson"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "732-MC30632.7680KA0R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMT_XTAL_8MM0_3MM20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "MC-306"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.391082880903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "SER2407CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "732-MC30632.7680KA0R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PC14 Pin=Y1-4
+Added Room: Name=Node_Sensor_Lora_Sche

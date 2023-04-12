@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=PB1 Pin=BT3-1
+Removed Pin From Net: NetName=PB1 Pin=BT3-1
+Removed Pin From Net: NetName=GND Pin=BT3-2
+Removed Pin From Net: NetName=GND Pin=BT3-2
+Removed Pin From Net: NetName=NetJ2_4 Pin=R11-2
+Removed Pin From Net: NetName=3V3 Pin=R15-1
+Removed Pin From Net: NetName=PB1 Pin=R15-2
+Removed Member From Class: ClassName=Node_Sensor_Lora_Sche Member=BT3
+Removed Member From Class: ClassName=Node_Sensor_Lora_Sche Member=R15
+Added Pin To Net: NetName=PB2 Pin=R11-2
+Added Room: Name=Node_Sensor_Lora_Sche

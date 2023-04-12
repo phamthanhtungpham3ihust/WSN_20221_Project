@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=HD1-1
+Removed Pin From Net: NetName=VBAT Pin=HD1-2
+Added Pin To Net: NetName=VBAT Pin=HD1-1
+Added Pin To Net: NetName=GND Pin=HD1-2
+Added Room: Name=Node_Sensor_Lora_Sche

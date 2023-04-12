@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PA2 Pin=R11-2
+Removed Pin From Net: NetName=PA2 Pin=U2-20
+Added Pin To Net: NetName=PB2 Pin=R11-2
+Added Pin To Net: NetName=PB2 Pin=U2-20
+Added Net: Name=PB2
+Added Room: Name=Node_Sensor_Lora_Sche

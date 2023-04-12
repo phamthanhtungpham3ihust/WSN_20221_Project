@@ -1,0 +1,23 @@
+Added Component: Designator=J6(CON7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J7(HED3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Added Component: Designator=S1(Screw 3.0 v2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S2(Screw 3.0 v2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S3(Screw 3.0 v2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S4(Screw 3.0 v2)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Node_Sensor_Lora_Sche Member=Component J6 Header 7H
+Added Member To Class: ClassName=Node_Sensor_Lora_Sche Member=Component J7 Header 3
+Added Member To Class: ClassName=Node_Sensor_Lora_Sche Member=Component S1 Screw
+Added Member To Class: ClassName=Node_Sensor_Lora_Sche Member=Component S2 Screw
+Added Member To Class: ClassName=Node_Sensor_Lora_Sche Member=Component S3 Screw
+Added Member To Class: ClassName=Node_Sensor_Lora_Sche Member=Component S4 Screw
+Added Room: Name=Node_Sensor_Lora_Sche

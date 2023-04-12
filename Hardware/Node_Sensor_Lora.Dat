@@ -1,0 +1,24 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Node_Sensor_Lora.PrjPCB|ReportField=ProjectFullPath~E:\WSN\Node_Sensor_Design_Hardware\Node_Sensor_Lora.PrjPCB|ReportField=Title~Bill of Materials For Project [Node_Sensor_Lora.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~10:35:04 PM|ReportField=ReportDate~12/27/2022|ReportField=ReportDateTime~12/27/2022 10:35:04 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~65|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~12/27/2022|ReportField=CurrentTime~10:35:01 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\WSN\Node_Sensor_Design_Hardware\Node_Sensor_Lora_Sche.SchDoc|ReportField=DocumentName~Node_Sensor_Lora_Sche.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~12/27/2022|ReportField=Organization~|ReportField=ProjectName~Node_Sensor_Lora.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Node_Sensor_Lora.PrjPCB|ReportField=DataSourceFullPath~E:\WSN\Node_Sensor_Design_Hardware\Node_Sensor_Lora.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|||BT1|SW4|BUTTON|1
+2|BT||BT2|SW4|BUTTON|1
+3|approved sub OK|Capacitor SMD Cer 1.8nF 10% 50V X7R 0805|C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23|CAPC2012X135N|CAP C_0805|23
+4|2K2 @ 100 MHz|Ferrite bead 2.2K Ohm at 100 MHz 200mA 0805 SMD|FB1|FBC2012N|FERRITE_2K2-100MHz_0805|1
+5|Header 2|Header 2 (Green)|HD1|HED2|Header 2|1
+6|DS18S20|High Precision  1-Wire® Digital Thermometer|IC1|DS18S20|DS18S20|1
+7|AMS1117-3V3|SOT223, Fixed Voltage|IC2|SOT223|AMS1117|1
+8|SPX3819_3V3||IC3|SOT23-5|SPX3819|1
+9|Header 2x1||J1|HDR_2x1|Header_2pins|1
+10|Header 3X2|Header, 3-Pin, Dual row|J2|HDR2X3|Header 3X2|1
+11|Header 20|Header, 20-Pin|J3, J4|HDR1X20|Header 20|2
+12|Header 4|Header 4 (Green)|J5|HDR _4PINS|Header 4|1
+13|Header 7H|Header, 7-Pin, Right Angle|J6|CON7|Header 7H|1
+14|Header 3|Header 3 (Green)|J7|HED3|Header 3|1
+15|LED SMD||LED1, LED2, LED3, LED4, LED5|SM-LED-0805-Blue|LED SMD 0805|5
+16|100R|Resistor SMD chip 0.0 Ohm 0.125W 0805|R1, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14|RESC2012N_ZERO|RES_0805|13
+17|330R|Resistor SMD chip 0.0 Ohm 0.125W 0805|R2|RESC2012N_ZERO|RES_0805|1
+18|Screw||S1, S2, S3, S4|Screw 3 small|Screw|4
+19|SS-12F44|Switch 102 on Broad|SW1|SW102|SW102A|1
+20|EE32_TTL_100||U1|E32_TTL_100|Module Lora E32_TTL_100|1
+21|STM32F103C8T6|STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 48-pin LQFP, Industrial Temperature|U2|STM32_LQPF48|STM32F103xx_LQFP48|1
+22|32.7680KHz|CRYSTAL 32.7680KHZ 12.5PF SMD|Y1|Epson_MC-306_32.7680K-A0-ROHS_0|Crys_Epson_MC-306_32.7680K-A0-ROHS_eec|1
+23|8MHz|Crystal For all Crystal 2pin.|Y2|CRYSTAL|CRYSTAL|1

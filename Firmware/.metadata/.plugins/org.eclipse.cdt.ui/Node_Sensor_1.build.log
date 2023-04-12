@@ -1,0 +1,10 @@
+11:08:02 **** Incremental Build of configuration Debug for project Node_Sensor_1 ****
+make -j4 all 
+arm-none-eabi-size   Node_Sensor_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  15440	     24	   1752	  17216	   4340	Node_Sensor_1.elf
+Finished building: default.size.stdout
+ 
+
+11:08:02 Build Finished. 0 errors, 0 warnings. (took 241ms)
+

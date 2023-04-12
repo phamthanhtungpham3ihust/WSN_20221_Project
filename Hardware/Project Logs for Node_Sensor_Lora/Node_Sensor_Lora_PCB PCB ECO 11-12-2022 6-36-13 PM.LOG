@@ -1,0 +1,55 @@
+Change Component Footprint: Designator=J6 Old Footprint=CON7 New Footprint=HDR1X7H
+Change Component Footprint: Designator=Y2 Old Footprint=CRYSTAL New Footprint=CRYSTAL SMD 32,768 kHz
+Change Component Footprint: Designator=R1 Old Footprint=RESC2012N_ZERO New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R2 Old Footprint=RESC2012N_ZERO New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R3 Old Footprint=RESC2012N_ZERO New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R4 Old Footprint=RESC2012N_ZERO New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R5 Old Footprint=RESC2012N_ZERO New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R6 Old Footprint=RESC2012N_ZERO New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R7 Old Footprint=RESC2012N_ZERO New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R9 Old Footprint=RESC2012N_ZERO New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R10 Old Footprint=RESC2012N_ZERO New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R11 Old Footprint=RESC2012N_ZERO New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R12 Old Footprint=RESC2012N_ZERO New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R13 Old Footprint=RESC2012N_ZERO New Footprint=RESC2012X70N
+Change Component Footprint: Designator=R14 Old Footprint=RESC2012N_ZERO New Footprint=RESC2012X70N
+Change Component Comment : Designator=BT1 Old Comment= New Comment=BT
+Change Component Comment : Designator=Y2 Old Comment=8MHz New Comment=16Mhz
+Change Component Comment : Designator=R9 Old Comment=100R New Comment=1K
+Change Component Comment : Designator=R10 Old Comment=100R New Comment=1K
+Change Component Comment : Designator=R14 Old Comment=100R New Comment=1M
+Change Component Comment : Designator=R4 Old Comment=100R New Comment=10K
+Change Component Comment : Designator=R11 Old Comment=100R New Comment=10K
+Change Component Comment : Designator=R3 Old Comment=100R New Comment=100K
+Change Component Comment : Designator=R8 Old Comment=100R New Comment=100K
+Change Component Comment : Designator=R12 Old Comment=100R New Comment=100K
+Change Component Comment : Designator=R13 Old Comment=100R New Comment=100K
+Change Component Comment : Designator=R1 Old Comment=100R New Comment=330R
+Change Component Comment : Designator=R2 Old Comment=100R New Comment=330R
+Change Component Comment : Designator=R5 Old Comment=100R New Comment=330R
+Change Component Comment : Designator=R6 Old Comment=100R New Comment=330R
+Change Component Comment : Designator=R7 Old Comment=100R New Comment=330R
+Change Component Comment : Designator=U2 Old Comment=STM32F103C8T6 New Comment=STM32F103xx_LQFP48
+Added Pin To Net: NetName=PB14 Pin=R3-1
+Added Pin To Net: NetName=VDD3V3 Pin=R3-2
+Added Pin To Net: NetName=3V3 Pin=R4-1
+Added Pin To Net: NetName=PB0 Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R5-2
+Added Pin To Net: NetName=3V3 Pin=R6-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R7-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R7-2
+Added Pin To Net: NetName=PA9 Pin=R9-1
+Added Pin To Net: NetName=RXD Pin=R9-2
+Added Pin To Net: NetName=PA10 Pin=R10-1
+Added Pin To Net: NetName=TXD Pin=R10-2
+Added Pin To Net: NetName=RESET Pin=R11-1
+Added Pin To Net: NetName=3V3 Pin=R11-2
+Added Pin To Net: NetName=BOOT0 Pin=R12-1
+Added Pin To Net: NetName=NetJ2_3 Pin=R12-2
+Added Pin To Net: NetName=NetJ2_4 Pin=R13-1
+Added Pin To Net: NetName=PB2 Pin=R13-2
+Added Pin To Net: NetName=OSCOUT Pin=R14-1
+Added Pin To Net: NetName=OSCIN Pin=R14-2
+Added Room: Name=Node_Sensor_Lora_Sche
